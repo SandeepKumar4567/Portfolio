@@ -20,7 +20,7 @@ const mywork_data = [
     w_no: 3,
     w_name: "Web design",
     w_img: project3_img,
-    w_url: "",
+    w_url: "https://front-end-micj.vercel.app/",
   },
 ];
 
