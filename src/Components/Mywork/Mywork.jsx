@@ -6,7 +6,7 @@ import arrow_icon from "../../img/arrow_icon.svg";
 
 const Mywork = () => {
   const handleClick = (url) => {
-    window.open(url, "_blank");
+    window.open(url,);
   };
 
   return (
