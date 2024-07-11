@@ -12,7 +12,7 @@ const Hero = () => {
       const professions = [
         "Full Stack Developer",
         "Web Developer",
-        "Front-End Developer "
+        "Front-End Developer ",
       ];
       const randomIndex = Math.floor(Math.random() * professions.length);
       setProfession(professions[randomIndex]);
