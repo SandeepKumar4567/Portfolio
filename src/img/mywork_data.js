@@ -14,7 +14,7 @@ const mywork_data = [
     w_no: 2,
     w_name: "Web design",
     w_img: project2_img,
-    w_url: "https://villa-template.vercel.app/",
+    w_url: "https://project-task-two.vercel.app/#home",
   },
   {
     w_no: 3,
